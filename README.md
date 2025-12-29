@@ -40,4 +40,6 @@
 |-------|-------|
 |coluna 1|coluna 2|
 
-
+<!--checkbox-->
+[x] tarefa 1 <br>
+[] tarefa2
