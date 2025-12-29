@@ -21,3 +21,23 @@
 1. lista 1
 2. lista 2
     1. sublista
+
+<!--link da imagem-->
+[texto da imagem](link da imagem)
+
+<!--imagem direto no texto -->
+![texto da imagem](link)
+
+<!--codigo direto (entre crases)-->
+`system.out.println();`
+
+<!--citações-->
+> Texto de citação
+-----------------------------------------------
+
+<!--tabelas-->
+|linha 1|linha 2|
+|-------|-------|
+|coluna 1|coluna 2|
+
+
