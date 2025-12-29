@@ -1,18 +1,10 @@
-# formação autenticação DIO
+<!--sintaxi basica do Markdown -->
+<!---->
 
-# 
-
-# 
-
-# Repositório para atividade de autenticação da DIO formação
-
-
-
-
-
-
-
-&nbsp;1 - Autenticação via Browser
-
-2 - Autenticação via Token
-
+<!--CABEÇALHO-->
+# Titulo 1
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 6
