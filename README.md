@@ -13,7 +13,11 @@
 *Negrito* e _Italico_  
 **Negrito** e __italico__
 
-<!--listas-->
+<!--listas desordenadas-->
 - lista 1
 - lista 2
-- sublista
+    - sublista
+<!--listas ordenadas-->
+1. lista 1
+2. lista 2
+    1. sublista
