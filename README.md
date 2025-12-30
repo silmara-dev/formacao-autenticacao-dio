@@ -3,7 +3,7 @@
 # CONHECENDO UM POUCO MAIS DO MARKDOWN
 <!--CABEÇALHO-->
 
-O tamanho dos titulos pode ser variado de acordo com o simbolo #
+O tamanho dos títulos pode ser variado de acordo com o símbolo #
 
 # Titulo 1
 ## Titulo 2
@@ -15,22 +15,22 @@ O tamanho dos titulos pode ser variado de acordo com o simbolo #
 ---------------------------
 
 <!--PLAVRA EM ITALICO ( 1 simbolo )OU NEGRITO (2 simbolos)-->
-Palavra em italico devem ser colocadas entre os simbolos ** ou _ _
+Palavra em itálico devem ser colocadas entre os símbolos ** ou _ _
 
 *Negrito* e _Italico_ 
 
-Palavra em negrito devem ser colocadas entre os 2 vezes os simbolos ** ou _ _
+Palavra em negrito devem ser colocadas entre os 2 vezes os símbolos ** ou _ _
 
 **Negrito** e __italico__
 
 <!--listas desordenadas-->
-Também é possivel realizar listas desordenadas marcadas apenas pelo simbolo: "-"
+Também é possível realizar listas desordenadas marcadas apenas pelo símbolo: "-"
 
 - lista 1
 - lista 2
     - sublista
     - 
-Listas ordenads devem ser sequenciadas pelo numeral seguido de "." ex: 1.
+Listas ordenadas devem ser sequenciadas pelo numeral seguido de "." ex: 1.
 
 <!--listas ordenadas-->
 1. lista 1
@@ -52,19 +52,20 @@ Para adicionar uma imagem direta segue a seguinte estrutura
 ![texto da imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHCW1Uw5t2nTLwa6BhMx4RFE2heuXSox3Yw&s)
 
 <!--codigo direto (entre crases)-->
-Para adicionar um codigo utilizamos o sinal de crase
+Para adicionar um codigo utilizamos o sinal de crase (`) e o codigo entre elas
 
 `system.out.println();`
 
 <!--citações-->
+Para uma citação basta adicionar o simbolo `>`
+
 > Texto de citação
 -----------------------------------------------
 
 <!--tabelas-->
+Para tabelas usamos barras verticais e hifens
+
 |linha 1|linha 2|
 |-------|-------|
 |coluna 1|coluna 2|
 
-<!--checkbox-->
-[x] tarefa 1 <br>
-[] tarefa2
